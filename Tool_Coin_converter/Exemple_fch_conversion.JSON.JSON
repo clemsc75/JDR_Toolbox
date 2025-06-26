@@ -1,0 +1,50 @@
+{
+    "Lumen": {
+        "Lumen": 1,
+        "Solaris": 26.4629,
+        "Nebula": 77.4256,
+        "Stella": 45.6205,
+        "Cosmo": 56.8477,
+        "Galacto": 1.8888
+    },
+    "Solaris": {
+        "Lumen": 61.7674,
+        "Solaris": 1,
+        "Nebula": 61.2135,
+        "Stella": 61.6972,
+        "Cosmo": 94.3754,
+        "Galacto": 68.1852
+    },
+    "Nebula": {
+        "Lumen": 35.9572,
+        "Solaris": 43.7088,
+        "Nebula": 1,
+        "Stella": 69.7661,
+        "Cosmo": 6.0319,
+        "Galacto": 66.68
+    },
+    "Stella": {
+        "Lumen": 67.0671,
+        "Solaris": 21.0462,
+        "Nebula": 12.9013,
+        "Stella": 1,
+        "Cosmo": 31.5497,
+        "Galacto": 36.3774
+    },
+    "Cosmo": {
+        "Lumen": 57.024,
+        "Solaris": 43.8658,
+        "Nebula": 98.8375,
+        "Stella": 10.2135,
+        "Cosmo": 1,
+        "Galacto": 20.8956
+    },
+    "Galacto": {
+        "Lumen": 16.1393,
+        "Solaris": 65.3143,
+        "Nebula": 25.3366,
+        "Stella": 46.6364,
+        "Cosmo": 24.4501,
+        "Galacto": 1
+    }
+}
