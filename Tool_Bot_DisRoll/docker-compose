@@ -1,0 +1,7 @@
+services:
+  disroll_bot: 
+    image: disroll_bot:latest
+    container_name: disroll_bot
+    restart: unless-stopped
+    environment:
+      - TOKEN_BOT_DISCORD=your_tocken
